@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to Assessment One 👋</h1>
+<h1 align="center">Welcome to Assessment Two 👋</h1>
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000" />
   <a href="https://github.com/alikahwaji/Lab-template#readme" target="_blank">
@@ -47,9 +47,9 @@ Check the :white_check_mark: Todos & :x: Not Todos
 |:four:|Do NOT share the assessment repo :closed_lock_with_key:|:heavy_multiplication_x:|
 |:five:|Do NOT re-use this repo for other coding activities :recycle:|:heavy_multiplication_x:|
 
-## :page_facing_up: Assessment One Description
+## :page_facing_up: Assessment Two Description
 
-:arrow_right: Assessment One Outline is provided in WEB504 Moodle. Follow the Assessment 
+:arrow_right: Assessment Two Outline is provided in WEB504 Moodle. Follow the Assessment 
               outline the timeline and marking rubric.
 
 
